@@ -40,7 +40,7 @@ CFwarp脚本宗旨：添加WARP尽可能做到简单化，适合范围局限于�
 
 一键脚本：
 ```
-wget -N --no-check-certificate https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
+wget -N --no-check-certificate https://github.com/jcw889/warp/main/CFwarp.sh && bash CFwarp.sh
 ```
 ----------------------------------------------------------------------------------------------------------------------
 
